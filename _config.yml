@@ -22,10 +22,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.lucasgatsas.ch" # the base hostname & protocol for your site
 
 #These settings might be able to go?
-author: Lucas Gatsas
-twitter_username: lucasgatsas
-github_username:  spaceg
-company_name: lucasgatsas
+author: Samuel CHEN
+twitter_username: CoSamuel
+github_username:  CooSamel
 
 # Build settings
 markdown: kramdown
