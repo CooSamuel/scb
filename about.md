@@ -1,9 +1,6 @@
 ---
 layout: about
 navigation_title: About
-title: About Lucas Gatsas
+title: About SAMUEL
 permalink: /about/
 ---
-
-
-
