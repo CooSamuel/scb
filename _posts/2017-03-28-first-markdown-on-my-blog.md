@@ -40,11 +40,8 @@ organiser: "阿Sam"
 
 
 
-Link: <a href="https://github.com/balderdashy/sails/issues/1361" target="_blank"> Github Issues 1361</a>
-Link: <a href="https://github.com/balderdashy/sails/issues/3292" target="_blank"> Github Issues 3292</a>
+<!-- Link: <a href="https://github.com/balderdashy/sails/issues/1361" target="_blank"> Github Issues 1361</a>
+Link: <a href="https://github.com/balderdashy/sails/issues/3292" target="_blank"> Github Issues 3292</a> -->
 
 
-
-<blockquote>
-"Port Running on Linux Ubuntu Servers"
-</blockquote>
+<blockquote class="alignright">“<br>我以为这是我失窃的名画<br>被庸人涂改<br>才发现<br>我的画布从未离开过心房<br>谁又能把它偷走<br>”</blockquote>
