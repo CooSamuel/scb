@@ -15,3 +15,5 @@ organiser: "阿Sam"
 ---
 <p>This is a paragraph<br />
 which contains a hard line break.</p>
+
+<blockquote class="alignright">“<br>也许是那年我们一起打了一张草稿<br>等待时机成熟<br>或是因为爱情<br>或是冠以友谊<br>我们自会将它绘成珍宝<br>”</blockquote>
