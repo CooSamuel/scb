@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "First Markdown on My Blog"
+title:  "JUST SMILE"
 cover: "img/asa.JPG"
 date:   2017-03-28
 start_time: "10:00"
