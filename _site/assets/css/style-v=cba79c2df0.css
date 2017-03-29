@@ -927,7 +927,7 @@ pre .storage {
 	position: absolute;
 	right: 30px;
 	top: 0;
-	width: 30px;	
+	width: 30px;
 }
 
 .sidebar-toggle .icon {
@@ -1467,7 +1467,7 @@ pre .storage {
 	-webkit-animation-name: fadeIndDown;
 	animation-name: 		fadeIndDown;
 	font-size: 18px;
-	font-style: italic;	
+	font-style: italic;
 }
 
 .hero .subscribe {
@@ -1990,7 +1990,7 @@ pre .storage {
 	.widget-title,
 	.widget-recent-posts a {
 		font-size: 18px;
-	}	
+	}
 
 	.grid-item,
 	.home-template .grid-item:nth-child(3n+1),
@@ -2104,9 +2104,9 @@ pre .storage {
 		padding-left: 0;
 	}
 
-	.footer-widgets .footer-col.last {		
+	.footer-widgets .footer-col.last {
 		padding-right: 0;
-	}	
+	}
 }
 
 @media only screen and (max-width: 980px) {
@@ -2373,7 +2373,7 @@ pre .storage {
 	.post-grid,
 	.author-template .post-grid,
 	.tag-template .post-grid {
-	
+
 	}
 
 	.grid-item,

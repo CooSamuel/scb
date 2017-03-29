@@ -2,22 +2,191 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samiu's Blog</title>
-    <description>Samuel, is a student Studying in Computer Science.
+    <description>Samuel, is a Web -Developer, Front -End Engineer &amp; UI/UX Designer based in  St. Gallen, Switerland.
 </description>
-    <link>http://localhost:4000/blog/</link>
-    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Mar 2017 16:43:36 +0800</pubDate>
-    <lastBuildDate>Tue, 28 Mar 2017 16:43:36 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 Mar 2017 23:30:02 +0800</pubDate>
+    <lastBuildDate>Wed, 29 Mar 2017 23:30:02 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>JUST SMILE</title>
+        <title>Kramkdown learning handbook</title>
         <description>&lt;p&gt;This is a paragraph&lt;br /&gt;
 which contains a hard line break.&lt;/p&gt;
+
+&lt;h1&gt;First level header&lt;/h1&gt;
+
+&lt;h2&gt;Second level header&lt;/h2&gt;
+
+&lt;h1&gt;H1 header&lt;/h1&gt;
+
+&lt;h2&gt;H2 header&lt;/h2&gt;
+
+&lt;h3&gt;H3 header&lt;/h3&gt;
+
+&lt;h4&gt;H4 header&lt;/h4&gt;
+
+&lt;h5&gt;H5 header&lt;/h5&gt;
+
+&lt;h6&gt;H6 header&lt;/h6&gt;
+
+&lt;h1&gt;A header without an ID&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A sample blockquote.&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;Nested blockquotes are
+also possible.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;h2&gt;Headers work too&lt;/h2&gt;
+  &lt;p&gt;This is the outer quote again.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a blockquote
+continued on this
+and this line.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But this is a separate paragraph.&lt;/p&gt;
+
+&lt;p&gt;This is a sample code block.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Continued here.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;This is also a code block.
+~~~
+Ending lines must have at least as
+many tildes as the starting line.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;div class=&quot;language-ruby highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line-numbers&quot;&gt;&lt;a href=&quot;#n1&quot; name=&quot;n1&quot;&gt;1&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;color:#080;font-weight:bold&quot;&gt;def&lt;/span&gt; &lt;span style=&quot;color:#06B;font-weight:bold&quot;&gt;what?&lt;/span&gt;
+&lt;span class=&quot;line-numbers&quot;&gt;&lt;a href=&quot;#n2&quot; name=&quot;n2&quot;&gt;2&lt;/a&gt;&lt;/span&gt;  &lt;span style=&quot;color:#00D&quot;&gt;42&lt;/span&gt;
+&lt;span class=&quot;line-numbers&quot;&gt;&lt;a href=&quot;#n3&quot; name=&quot;n3&quot;&gt;3&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;color:#080;font-weight:bold&quot;&gt;end&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;This is a list item&lt;/li&gt;
+  &lt;li&gt;And another item&lt;/li&gt;
+  &lt;li&gt;And the third one
+with additional text&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A list item
+with additional text&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;This is a list item&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;with a blockquote&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;h1&gt;And a header&lt;/h1&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Followed by another item&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Item one
+    &lt;ol&gt;
+      &lt;li&gt;sub item one&lt;/li&gt;
+      &lt;li&gt;sub item two&lt;/li&gt;
+      &lt;li&gt;sub item three&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Item two&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is a paragraph.
+1. This is NOT a list.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;This is a list!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Item one&lt;/li&gt;
+  &lt;li&gt;Item two&lt;/li&gt;
+  &lt;li&gt;Item three&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;term&lt;/dt&gt;
+  &lt;dd&gt;definition&lt;/dd&gt;
+  &lt;dd&gt;another definition&lt;/dd&gt;
+  &lt;dt&gt;another term&lt;/dt&gt;
+  &lt;dt&gt;and another term&lt;/dt&gt;
+  &lt;dd&gt;and a definition for the term&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;term&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;p&gt;definition&lt;/p&gt;
+  &lt;/dd&gt;
+  &lt;dd&gt;definition&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;This &lt;em&gt;is&lt;/em&gt; a term&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;p&gt;This will be a para&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;a blockquote&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;h1&gt;A header&lt;/h1&gt;
+  &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;A simple&lt;/td&gt;
+      &lt;td&gt;table&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;with multiple&lt;/td&gt;
+      &lt;td&gt;lines&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote title=&quot;Blockquote title&quot;&gt;
+  &lt;p&gt;A nice blockquote&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;class1 class2&quot;&gt;
+  &lt;p&gt;A nice blockquote&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;alignright&quot;&gt;“&lt;br /&gt;也许是那年我们一起打了一张草稿&lt;br /&gt;等待时机成熟&lt;br /&gt;或是因为爱情&lt;br /&gt;或是冠以友谊&lt;br /&gt;我们自会将它绘成珍宝&lt;br /&gt;”&lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 28 Mar 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/event/kramkdown-learning-handbook.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/event/kramkdown-learning-handbook.html</guid>
+        <link>http://localhost:4000/event/kramkdown-learning-handbook.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/kramkdown-learning-handbook.html</guid>
         
         
       </item>
@@ -36,23 +205,21 @@ which contains a hard line break.&lt;/p&gt;
 
 &lt;!--
 
-&lt;a href=&quot;/blog/img/p-4.png&quot;&gt;
-    &lt;img src=&quot;/blog/img/p-4.png&quot; alt=&quot;Lucas Gatsas lucas gatsas&quot; title=&quot;lucas gatsas Lucas Gatsas&quot;  style=&quot;width:100%&quot;&gt;
+&lt;a href=&quot;/img/p-4.png&quot;&gt;
+    &lt;img src=&quot;/img/p-4.png&quot; alt=&quot;Lucas Gatsas lucas gatsas&quot; title=&quot;lucas gatsas Lucas Gatsas&quot;  style=&quot;width:100%&quot;&gt;
 &lt;/a&gt;
 
 
 --&gt;
 
-&lt;p&gt;Link: &lt;a href=&quot;https://github.com/balderdashy/sails/issues/1361&quot; target=&quot;_blank&quot;&gt; Github Issues 1361&lt;/a&gt;
-Link: &lt;a href=&quot;https://github.com/balderdashy/sails/issues/3292&quot; target=&quot;_blank&quot;&gt; Github Issues 3292&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Link: &lt;a href=&quot;https://github.com/balderdashy/sails/issues/1361&quot; target=&quot;_blank&quot;&gt; Github Issues 1361&lt;/a&gt;
+Link: &lt;a href=&quot;https://github.com/balderdashy/sails/issues/3292&quot; target=&quot;_blank&quot;&gt; Github Issues 3292&lt;/a&gt; --&gt;
 
-&lt;blockquote&gt;
-&quot;Port Running on Linux Ubuntu Servers&quot;
-&lt;/blockquote&gt;
+&lt;blockquote class=&quot;alignright&quot;&gt;“&lt;br /&gt;我以为这是我失窃的名画&lt;br /&gt;被庸人涂改&lt;br /&gt;才发现&lt;br /&gt;我的画布从未离开过心房&lt;br /&gt;谁又能把它偷走&lt;br /&gt;”&lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 28 Mar 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/event/first-markdown-on-my-blog.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/event/first-markdown-on-my-blog.html</guid>
+        <link>http://localhost:4000/event/first-markdown-on-my-blog.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/first-markdown-on-my-blog.html</guid>
         
         
       </item>
